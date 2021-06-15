@@ -1,0 +1,50 @@
+Following are the Answers for the given question with class info
+
+Test 1
+Question 1: 
+Answer : Created in LargestOdd.java
+
+Question 2:
+Answer : Created in UniqueChar.java
+
+Question 3:
+Answer : Created in ReverseString.java
+
+Question 4:
+Answer : Create in MiddleNum.java
+
+Question 5: Sub Question 1:
+Answer : Created in SortObject.java
+
+Question 5: Sub Question 2:
+Answer : Created in AccountInfo.java
+
+
+Test 2
+Question 1:
+Answer : Created in LargestEvenNo.java
+
+Question 2:
+Answer : Created in NoOfUniqueChar.java
+
+Question 3:
+Answer : Created in FirstLetter.java
+
+Question 4:
+Answer : Created in StringRotate.java
+
+Output of given Program is
+
+**This is STATIC BLOCK.
+##This is CONSTRUCTOR.
+##This is CONSTRUCTOR.
+##This is CONSTRUCTOR.
+Hello World.
+Hello World.
+Hello World.
+
+
+
+Question 5:
+Answer : Consider same as Question 5 of Test in
+SortObject.java and AccountInfo.java
